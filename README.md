@@ -4,25 +4,25 @@ This is a vanilla javascipt project from the udemy course "The Complete JavaScri
 
 ## What I Learned From This Project
 
--Async/Await/Promise usage
--use of the Model-View-Controller architecture
--import and export basics for better file organization
--using parcel as a bundler for creating a production build
+-Async/Await/Promise usage<br />
+-use of the Model-View-Controller architecture<br />
+-import and export basics for better file organization<br />
+-using parcel as a bundler for creating a production build<br />
 -how beneficial and efficient frameworks such as react are vs using vanilla javascript for pagination, modals etc.
 
 ## Installation
 
 Fork/download the repository and run:
 
-```bash
-npm install
-```
+`npm install`
 
-```bash
-npm start
-```
+`npm start`
+
+## Screenshots
+
+<img src="./screenshots/forkify_app.PNG" height="50%" width="50%">
 
 ## Credits
 
 Course created by Jonas Schmedtmann:
-[NodeJS The Complete Guide](https://www.udemy.com/course/the-complete-javascript-course/)
+[The Complete Javascript Course](https://www.udemy.com/course/the-complete-javascript-course/)
