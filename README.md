@@ -4,11 +4,11 @@ This is a vanilla javascipt project from the udemy course "The Complete JavaScri
 
 ## What I Learned From This Project
 
--Async/Await/Promise usage<br />
--use of the Model-View-Controller architecture<br />
--import and export basics for better file organization<br />
--using parcel as a bundler for creating a production build<br />
--how beneficial and efficient frameworks such as react are vs using vanilla javascript for pagination, modals etc.
+- Async/Await/Promise usage
+- use of the Model-View-Controller architecture
+- import and export basics for better file organization
+- using parcel as a bundler for creating a production build
+- how beneficial and efficient frameworks such as react are vs using vanilla javascript for pagination, modals etc.
 
 ## Installation
 
